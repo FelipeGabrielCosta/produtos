@@ -1,0 +1,34 @@
+{
+    "produtos": [
+      {
+        "descricao": "Filé Peito Frango CANÇÃO Congelado kg",
+        "imagem": "produto1.png",
+        "preco": "15,49",
+        "unidade": "UNID"
+      },
+      {
+        "descricao": "Salsicha Hot Dog Sadia 500g",
+        "imagem": "produto2.png",
+        "preco": "8,99",
+        "unidade": "UNID"
+      },
+      {
+        "descricao": "Arroz Branco Tipo 1 5kg",
+        "imagem": "produto3.png",
+        "preco": "22,90",
+        "unidade": "UNID"
+      },
+      {
+        "descricao": "Leite Integral Parmalat 1L",
+        "imagem": "produto4.png",
+        "preco": "4,50",
+        "unidade": "UNID"
+      },
+      {
+        "descricao": "Café Melitta Tradicional 500g",
+        "imagem": "produto5.png",
+        "preco": "12,99",
+        "unidade": "UNID"
+      }
+    ]
+  }
